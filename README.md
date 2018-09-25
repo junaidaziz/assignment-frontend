@@ -1,4 +1,4 @@
 # assignment-frontend
-cd assignment-frontend
-npm install
-npm start to start web server.
+1. cd assignment-frontend
+2. npm install
+3. npm start to start web server.
